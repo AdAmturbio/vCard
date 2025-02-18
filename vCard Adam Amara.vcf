@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Adam AMARA
+N:AMARA;Adam;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:adam@turing.bio
+item1.TEL:+33 6 33 93 47 79
+item1.X-ABLabel:
+item2.TEL:+44 7759 433034
+item2.X-ABLabel:
+ORG:Turing Biosystems
+TITLE:CEO & Co-founder
+item3.URL:https\://www.linkedin.com/in/adamamara/
+item3.X-ABLabel:PROFILE
+item4.URL:https\://www.turing.bio
+item4.X-ABLabel:_$!<HomePage>!$_
+NOTE:Catalyzing the convergence of computation and biology.\nLocation: Lond
+ on (UK +44) - Lyon (France +33)
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzF3BN3Gz1bojUA2erFJ__
+ 71ZM2ZyiyShDMcloNU6p77d_0BkFdr
+CATEGORIES:myContacts
+END:VCARD
